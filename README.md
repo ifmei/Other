@@ -15,7 +15,9 @@
 NestedScrolling | 上滑的时候隐藏toolbar | [资料1][2]
 
 
-###GitHub上史上最全的Android开源项目分类汇总
+###收藏
+[GitHub上史上最全的Android开源项目分类汇总][7]
+
 [1]:https://github.com/Malinskiy/SuperRecyclerView
 [2]:https://segmentfault.com/a/1190000002873657
 [3]:https://github.com/pengwei1024/LogUtils
