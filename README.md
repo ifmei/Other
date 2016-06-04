@@ -13,9 +13,13 @@
 名称（地址） | 介绍 | 资料|
 :---|:---|:---
 NestedScrolling | 上滑的时候隐藏toolbar | [资料1][2]
+
+
+###GitHub上史上最全的Android开源项目分类汇总
 [1]:https://github.com/Malinskiy/SuperRecyclerView
 [2]:https://segmentfault.com/a/1190000002873657
 [3]:https://github.com/pengwei1024/LogUtils
 [4]:https://github.com/JoanZapata/base-adapter-helper
 [5]:https://github.com/ihrthk/BaseAdapterHelper
 [6]:https://github.com/code-mc/material-icon-lib
+[7]:http://itindex.net/detail/51896-github-android-%E5%BC%80%E6%BA%90
