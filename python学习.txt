@@ -1,0 +1,18 @@
+1. python基本语法,
+2. 字符串,数字等
+3. 条件,循环等
+4. python基本数据类型: 元组, 列表, 字典, 集合等
+5. 函数
+6. 类和面对对象
+7. 高级话题: 作用域,装饰器
+8. 正则表达式 
+9. 解析json: 使用标准库json
+10. 解析html和xml:
+    解析html用第三方库beautufulsoup4和html5lib
+    解析xml用标准库xml.etree.ElementTree
+11. 使用数据库: 连接sqlite用标准库sqlite3
+        连接mysql用第三方库pymysql(注意不是pymysql3)
+12. 网络编程,ftp,邮件等
+13. python做网站: 复杂网站用Django,中文教程:http://python.usyiyi.cn/django/index.html
+        如果只是做几个接口测试用,逻辑简单,不用连接数据库,建议使用flask
+
